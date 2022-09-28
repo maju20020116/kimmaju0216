@@ -3,4 +3,4 @@
 
 
 
-<img width="" height="" src="./pic/안드로이드 과제.png"></img>
+<img width="" height="" src="./pi/안드로이드 과제.png"></img>
